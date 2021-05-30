@@ -9,3 +9,7 @@ class MyStuff:
     def orange(self):
         print("The orange is rich in 'C' vitamin and many other vitamins")
 
+
+class vender:
+    def selling(self):
+        pint('selling banana')
