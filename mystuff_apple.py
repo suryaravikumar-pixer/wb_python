@@ -1,11 +1,11 @@
-from mystuff import MyStuff, vender
+from mystuff import vender
 
-thing=MyStuff()
-thing.apple()
-thing.orange()
-print(thing.continent_food)
-print("------------------------")
 seller=vender('mitchel','r12xa20490')
 seller.selling()
+print("------------------------")
+seller.apple()
+seller.orange()
+# print(seller.continent_food)
+
 """type of our class"""
 # print(type(mystuff))
