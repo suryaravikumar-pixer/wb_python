@@ -11,10 +11,5 @@ class MyStuff:
 
 
 class vender:
-    def __init__(self, name, vender_id):
-        self.name = name
-        self.vender_id = vender_id
-        print(name, vender_id) 
-
     def selling(self):
-        print('selling banana')
+        pint('selling banana')
