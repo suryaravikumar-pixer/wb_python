@@ -2,6 +2,7 @@ from mystuff import MyStuff
 
 thing=MyStuff()
 thing.apple()
+thing.orange()
 print(thing.continent_food)
 """type of our class"""
 # print(type(mystuff))
